@@ -1,6 +1,6 @@
 # Hi there!  
 I'm a passionate software developer.<br>
-![🏠 naziahssn](https://bluesparx.github.io/naziahssn/)<br>
+[🏠 naziahssn](https://bluesparx.github.io/naziahssn/)<br>
 ## About me: <br>
 👯  BTech CSE IGDTUW'26<br>⚡  I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications.<br>🌱 I’m currently learning full-stack development in MERN<br>💬 Ask me about my cat over coffee :)
 
