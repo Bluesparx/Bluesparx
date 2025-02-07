@@ -1,10 +1,68 @@
-# Hi there!  I'm Nazia Hassan
-Check out my portfolio: [🏠 naziahssn](https://naziahassan.vercel.app)<br>
-## About me: <br>
-👯  BTech CSE IGDTUW'26<br>⚡  I'm a Web Developer who loves making high-quality websites.<br>🌱 I’m currently learning full-stack development in MERN<br>💬 Ask me about my cat over coffee :)
+# Hi there, I'm [Nazia Hassan!](https://naziahassan.vercel.app) 👋  
 
-# Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bluesparx&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluesparx&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#### I'm a passionate Web Developer who loves creating high-quality websites! 💻  
+
+👯 **BTech CSE IGDTUW'26**  
+⚡ I love making high-quality websites.  
+🌱 Currently learning full-stack development in MERN.  
+💬 Ask me about my cat over coffee! ☕  
+
+
+## 🚀 Tech Stack  
+
+#### Languages & Frameworks:
+<div align="left">
+  <img src="https://img.shields.io/badge/c++-%2320232a.svg?style=flat&logo=c%2B%2B&logoColor=blue" />
+  <img src="https://img.shields.io/badge/python-%2320232a?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=flat&logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/css3-%2320232a.svg?style=flat&logo=css3&logoColor=%2361DAFB" />
+</div>
+
+#### Frontend:
+<div align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/vite-%2320232a.svg?style=flat&logo=vite&logoColor=red" />
+  <img src="https://img.shields.io/badge/bootstrap-%2320232a.svg?style=flat&logo=bootstrap&logoColor=purple" />
+  <img src="https://img.shields.io/badge/figma-%2320232a.svg?style=flat&logo=figma&logoColor=pink" />
+</div>
+
+#### Backend:
+<div align="left">
+  <img src="https://img.shields.io/badge/node.js-%2320232a?style=flat&logo=node.js&logoColor=green" />
+  <img src="https://img.shields.io/badge/express.js-%2320232a.svg?style=flat&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=flat&logo=mongodb&logoColor=green" />
+  <img src="https://img.shields.io/badge/mysql-%2320232a.svg?style=flat&logo=mysql&logoColor=violet" />
+</div>
+
+#### Hosting & Deployment:
+<div align="left">
+  <img src="https://img.shields.io/badge/Render-%2320232a.svg?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%2320232a.svg?style=flat&logo=vercel&logoColor=white" />
+</div>
+
+#### AI & Data Science:
+<div align="left">
+  <img src="https://img.shields.io/badge/numpy-%2320232a.svg?style=flat&logo=numpy&logoColor=blue" />
+  <img src="https://img.shields.io/badge/pandas-%2320232a.svg?style=flat&logo=pandas&logoColor=purple" />
+  <img src="https://img.shields.io/badge/Matplotlib-%2320232a.svg?style=flat&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/TensorFlow-%2320232a.svg?style=flat&logo=TensorFlow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Keras-%2320232a.svg?style=flat&logo=Keras&logoColor=red" />
+</div>
+
+#### Version Control & Dev Tools:
+<div align="left">
+  <img src="https://img.shields.io/badge/git-%2320232a.svg?style=flat&logo=git&logoColor=red" />
+  <img src="https://img.shields.io/badge/github-%2320232a.svg?style=flat&logo=github&logoColor=white" />
+</div>
+
+## 🤝🏻 Let's Connect!
+
+<div align="left">
+  <a href="https://x.com/oknaziaa" target="_blank">X</a> |
+  <a href="https://linkedin.com/in/naziahassan004" target="_blank">LinkedIn</a> |
+  <a href="https://www.pinterest.com/bluesparxx" target="_blank">Pinterest</a> |
+  <a href="https://naziahassan.vercel.app/contact" target="_blank">Email</a>
+</div>
+
+
